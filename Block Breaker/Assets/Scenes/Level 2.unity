@@ -684,6 +684,26 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4311143168426958728, guid: 5bfc12efe78b1b0488ac14fa7b0165b1,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 4311143168426958728, guid: 5bfc12efe78b1b0488ac14fa7b0165b1,
+        type: 3}
+      propertyPath: m_AutoTiling
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4311143168426958728, guid: 5bfc12efe78b1b0488ac14fa7b0165b1,
+        type: 3}
+      propertyPath: m_UsedByEffector
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4311143168426958731, guid: 5bfc12efe78b1b0488ac14fa7b0165b1,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1
+      objectReference: {fileID: 0}
     - target: {fileID: 4311143168912128579, guid: 5bfc12efe78b1b0488ac14fa7b0165b1,
         type: 3}
       propertyPath: m_Color.r
